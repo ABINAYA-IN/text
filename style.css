@@ -1,0 +1,102 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    background-color:black;
+    color:white;
+    margin: 10px;
+    padding: 30px;
+    line-height: 35px; 
+}
+
+body{
+    margin: 30px;
+}
+
+
+.container{
+    background-color:black;
+    color:white;
+    padding: 30px;
+    line-height: 35px;
+}
+
+.button{
+    padding: 10px;
+    background-color: red;
+}
+
+.container1{
+    margin-top: 10px;
+}
+
+.main_container{
+    display: flex;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+
+.Sub_container1{
+    padding: 15px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+.Sub_container1 h2{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.Sub_container2{
+    padding: 15px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.Sub_container2 h2{
+    color: white;
+    margin-bottom: 10px;
+}
+
+.end-part{
+    background: black;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+    line-height: 35px;
+}
+
+/*styling the contact*/
+
+
+.end-part p{
+    color: red(250,250,250);
+    margin-bottom:10px;
+}
+
+.end-part a{
+    color: red(231,14,14);
+}
+
+.ct{
+    left:40%
+    color: red(250,250,250);
+    line-height: 35px;
+}
+
+.ct button{
+    padding:10px;
+    border:none;
+    border-radius:10px;
+    background-color: orangered;
+    font-weight:bolder;
+    cursor:pointer;
+}
+.ct td{
+    color: azure
+}
+.cth{
+    color:azure
+}
